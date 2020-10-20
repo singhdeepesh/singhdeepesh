@@ -5,12 +5,12 @@
 
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a student at present and I intend on being one all my life :)
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🔭 I'll soon begin my PhD at the University of Queensland, Australia
+- 📝 I’m currently learning about Complexity Theory and Quantum Computation
+- 👯 I’m looking forward to collaborate with other researchers
+- 💣 2020 Goals: Staying alive
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Spotify Playing 🎧
