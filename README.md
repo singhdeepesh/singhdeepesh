@@ -1,7 +1,7 @@
 ### Hi there, I'm [Deepesh!][website] 👋
 
 [![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepesh-singh-2a3733128/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Deepesh__Singh?label=Follow%20%40Deepesh&style=social)](https://twitter.com/Deepesh__Singh)
+![Twitter Follow](https://img.shields.io/twitter/follow/Deepesh__Singh?color=%231DA1F2&label=Follow%20%40Deepesh&logo=Twitter&style=for-the-badge)(https://twitter.com/Deepesh__Singh)
 
 
 
