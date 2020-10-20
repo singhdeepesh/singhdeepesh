@@ -1,7 +1,9 @@
 ### Hi there, I'm [Deepesh!][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://singhdeepesh.github.io/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepesh-singh-2a3733128/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Deepesh__Singh?label=Follow%20%40Deepesh&style=social)](https://twitter.com/Deepesh__Singh)
+
+
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
@@ -97,7 +99,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://singhdeepesh.github.io/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
